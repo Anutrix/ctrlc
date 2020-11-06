@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="The official website of BankScape"
+    />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="apple-touch-icon" href="/logo192.png" />
+    <link rel="manifest" href="/manifest.json" />
+    <title>BankScape</title>
+  </head>
+  <body>
+    <noscript>Javascript is not enabled. Please enable it to view this page.</noscript>
+    <div id="root"></div>
+  <script src="/static/js/bundle.js" type="83aff653dc0d24ffd4ab9aad-text/javascript"></script><script src="/static/js/0.chunk.js" type="83aff653dc0d24ffd4ab9aad-text/javascript"></script><script src="/static/js/main.chunk.js" type="83aff653dc0d24ffd4ab9aad-text/javascript"></script><script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="83aff653dc0d24ffd4ab9aad-|49" defer=""></script></body>
+</html>
