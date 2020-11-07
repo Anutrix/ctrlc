@@ -2,12 +2,12 @@
 function sendEmail() {
     console.log("sendEmail() called.");
 	Email.send({
-    SecureToken : "79F4D770-12CE-41DD-99A2-CD2B4FEAB9D9",
-	To : 'numaanzaheerahmed@yahoo.com',
-	From : "ctrlcjunkmail@yandex.com",
-	Subject : "Test1",
-	Body : "Test Successful",
-	}).then(
-		message => alert("mail sent successfully")
-	);
+    SecureToken : "8b37de97-f9f7-468f-8220-3218c77267b0",
+    To : 'numaanzaheerahmed@yahoo.com',
+    From : "ctrlcjunkmail@gmail.com",
+    Subject : "Test1",
+    Body : "Test worked"
+    }).then(
+        message => alert(message)
+    );
 }
