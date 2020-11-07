@@ -2,9 +2,7 @@
 function sendEmail() {
     console.log("sendEmail() called.");
 	Email.send({
-	Host: "smtp.yandex.ru",
-	Username : "ctrlcjunkmail@yandex.com",
-	Password : "ctrlcjunkmail@gmail.com",
+    SecureToken : "79F4D770-12CE-41DD-99A2-CD2B4FEAB9D9",
 	To : 'numaanzaheerahmed@yahoo.com',
 	From : "ctrlcjunkmail@yandex.com",
 	Subject : "Test1",
